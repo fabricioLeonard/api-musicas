@@ -3,6 +3,6 @@ package br.com.developeracademy;
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
 @QuarkusIntegrationTest
-class AlunoResourceIT extends AlunoResourceTest {
+class MusicaResourceIT extends MusicaResourceTest {
     // Execute the same tests but in packaged mode.
 }
