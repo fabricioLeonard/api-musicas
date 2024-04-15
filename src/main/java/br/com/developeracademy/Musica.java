@@ -1,7 +1,7 @@
 package br.com.developeracademy;
 
 public class Musica {
-    private Long id;
+    private Long id; //Primary Key
     private String nome;
     private Double duracao;
 
