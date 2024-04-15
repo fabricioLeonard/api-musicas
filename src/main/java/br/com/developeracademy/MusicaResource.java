@@ -50,4 +50,7 @@ public class MusicaResource {
     public Response find() {
         return Response.ok().entity(musicas).build();
     }
+
+    //Exercicio 01:
+    //Criar o método para recuperar uma música pelo ID.
 }
